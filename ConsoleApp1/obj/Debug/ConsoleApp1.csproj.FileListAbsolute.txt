@@ -1,0 +1,10 @@
+E:\DATA\kuliah\Semester4\kpl\praktikum_kpl\Modul11\tpmodul11_103022300107\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+E:\DATA\kuliah\Semester4\kpl\praktikum_kpl\Modul11\tpmodul11_103022300107\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+E:\DATA\kuliah\Semester4\kpl\praktikum_kpl\Modul11\tpmodul11_103022300107\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+E:\DATA\kuliah\Semester4\kpl\praktikum_kpl\Modul11\tpmodul11_103022300107\ConsoleApp1\bin\Debug\AljabarLibraries.dll
+E:\DATA\kuliah\Semester4\kpl\praktikum_kpl\Modul11\tpmodul11_103022300107\ConsoleApp1\bin\Debug\AljabarLibraries.pdb
+E:\DATA\kuliah\Semester4\kpl\praktikum_kpl\Modul11\tpmodul11_103022300107\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.AssemblyReference.cache
+E:\DATA\kuliah\Semester4\kpl\praktikum_kpl\Modul11\tpmodul11_103022300107\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+E:\DATA\kuliah\Semester4\kpl\praktikum_kpl\Modul11\tpmodul11_103022300107\ConsoleApp1\obj\Debug\ConsoleA.CB28C8CC.Up2Date
+E:\DATA\kuliah\Semester4\kpl\praktikum_kpl\Modul11\tpmodul11_103022300107\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+E:\DATA\kuliah\Semester4\kpl\praktikum_kpl\Modul11\tpmodul11_103022300107\ConsoleApp1\obj\Debug\ConsoleApp1.pdb

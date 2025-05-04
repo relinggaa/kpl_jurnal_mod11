@@ -1,12 +1,54 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "E:\\DATA\\kuliah\\Semester4\\kpl\\praktikum_kpl\\Modul11\\tpmodul11_103022300107\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8120F377-7F7A-49DA-B667-2530E211B605}|AljabarLibraries\\AljabarLibraries.csproj|e:\\data\\kuliah\\semester4\\kpl\\praktikum_kpl\\modul11\\tpmodul11_103022300107\\aljabarlibraries\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8120F377-7F7A-49DA-B667-2530E211B605}|AljabarLibraries\\AljabarLibraries.csproj|solutionrelative:aljabarlibraries\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16D4B681-444C-45CC-B56C-8A7DE83C61AB}|ConsoleApp1\\ConsoleApp1.csproj|e:\\data\\kuliah\\semester4\\kpl\\praktikum_kpl\\modul11\\tpmodul11_103022300107\\consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16D4B681-444C-45CC-B56C-8A7DE83C61AB}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\DATA\\kuliah\\Semester4\\kpl\\praktikum_kpl\\Modul11\\tpmodul11_103022300107\\ConsoleApp1\\Program.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Program.cs",
+              "ToolTip": "E:\\DATA\\kuliah\\Semester4\\kpl\\praktikum_kpl\\Modul11\\tpmodul11_103022300107\\ConsoleApp1\\Program.cs",
+              "RelativeToolTip": "ConsoleApp1\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T05:38:28.861Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "E:\\DATA\\kuliah\\Semester4\\kpl\\praktikum_kpl\\Modul11\\tpmodul11_103022300107\\AljabarLibraries\\Class1.cs",
+              "RelativeDocumentMoniker": "AljabarLibraries\\Class1.cs",
+              "ToolTip": "E:\\DATA\\kuliah\\Semester4\\kpl\\praktikum_kpl\\Modul11\\tpmodul11_103022300107\\AljabarLibraries\\Class1.cs",
+              "RelativeToolTip": "AljabarLibraries\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T05:36:40.096Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }

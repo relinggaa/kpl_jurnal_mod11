@@ -1,0 +1,6 @@
+E:\DATA\kuliah\Semester4\kpl\praktikum_kpl\Modul11\tpmodul11_103022300107\AljabarLibraries\bin\Debug\AljabarLibraries.dll
+E:\DATA\kuliah\Semester4\kpl\praktikum_kpl\Modul11\tpmodul11_103022300107\AljabarLibraries\bin\Debug\AljabarLibraries.pdb
+E:\DATA\kuliah\Semester4\kpl\praktikum_kpl\Modul11\tpmodul11_103022300107\AljabarLibraries\obj\Debug\AljabarLibraries.csproj.AssemblyReference.cache
+E:\DATA\kuliah\Semester4\kpl\praktikum_kpl\Modul11\tpmodul11_103022300107\AljabarLibraries\obj\Debug\AljabarLibraries.csproj.CoreCompileInputs.cache
+E:\DATA\kuliah\Semester4\kpl\praktikum_kpl\Modul11\tpmodul11_103022300107\AljabarLibraries\obj\Debug\AljabarLibraries.dll
+E:\DATA\kuliah\Semester4\kpl\praktikum_kpl\Modul11\tpmodul11_103022300107\AljabarLibraries\obj\Debug\AljabarLibraries.pdb
